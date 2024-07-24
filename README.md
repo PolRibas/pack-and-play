@@ -60,5 +60,4 @@ project-pack-and-play/
 ├── package.json
 ├── tsconfig.json
 ├── README.md
-
 ```

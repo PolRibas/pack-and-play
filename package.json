@@ -1,0 +1,15 @@
+{
+  "name": "project-pack-and-play",
+  "version": "1.0.0",
+  "description": "Pack and Play para proyectos tecnológicos con TypeScript",
+  "scripts": {
+    "start": "ts-node ./scripts/hello.ts"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}

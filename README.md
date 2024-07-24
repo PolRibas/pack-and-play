@@ -21,8 +21,7 @@ npm install
 
 The first time you run the program, you will be prompted to select a language (English or Spanish). This setting will be saved and used for future runs.
 
-
-## Usage
+**Usage**
 
 To start the interactive menu, use the following command:
 
@@ -36,7 +35,7 @@ Create a new project: Set up a new project from scratch.
 Add modules to an existing project: Add new modules to an already existing project.
 Exit: Exit the program.
 
-## Test
+**Test**
 
 To run a simple test script, use the following command:
 
@@ -47,7 +46,7 @@ npm run hello
 This will execute a basic TypeScript script to ensure everything is set up correctly.
 
 
-## Project Structure
+##Project Structure
     
 ```
 project-pack-and-play/

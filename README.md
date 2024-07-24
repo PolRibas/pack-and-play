@@ -21,7 +21,8 @@ npm install
 
 The first time you run the program, you will be prompted to select a language (English or Spanish). This setting will be saved and used for future runs.
 
-### Usage
+
+## Usage
 
 To start the interactive menu, use the following command:
 
@@ -44,6 +45,7 @@ npm run hello
 ```
 
 This will execute a basic TypeScript script to ensure everything is set up correctly.
+
 
 ## Project Structure
     

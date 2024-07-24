@@ -68,3 +68,6 @@ out/
 
 # Optional folder to exclude
 archive/
+
+# Configuration settings
+settings/

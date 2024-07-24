@@ -46,6 +46,8 @@ npm run hello
 This will execute a basic TypeScript script to ensure everything is set up correctly.
 
 ## Project Structure
+    
+```
 project-pack-and-play/
 ├── scripts/
 │   ├── questions/
@@ -59,3 +61,4 @@ project-pack-and-play/
 ├── tsconfig.json
 ├── README.md
 
+```

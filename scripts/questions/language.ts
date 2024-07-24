@@ -2,12 +2,23 @@ import * as inquirer from 'inquirer';
 
 const promptModule = inquirer.createPromptModule();
 
-const languagesCodes: {
+export enum LanguageCodeEnum {
+  Spanish = 'es',
+  English = 'en',
+  French = 'fr',
+  German = 'de',
+}
+
+export const languagesCodes: {
   [key: string]: string;
 } = {
-  "es": 'Español',
-  "en": 'English',
+  [LanguageCodeEnum.Spanish]: 'Español',
+  [LanguageCodeEnum.English]: 'English',
+  [LanguageCodeEnum.French]: 'Français',
+  [LanguageCodeEnum.German]: 'Deutsch',
 }
+
+export type LanguageCodeType = keyof typeof languagesCodes;
 
 const key = "lang";
 

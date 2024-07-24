@@ -21,7 +21,7 @@ npm install
 
 The first time you run the program, you will be prompted to select a language (English or Spanish). This setting will be saved and used for future runs.
 
-## Usage
+### Usage
 
 To start the interactive menu, use the following command:
 
